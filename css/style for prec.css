@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background: yellow;
+}
+h1 {
+    color: red;
+}
+
+/*
+body {
+    background-color: yellow;
+}
+
+.header_area .main_menu .navbar .navbar-brand {
+    padding: 0 2rem 0 5rem;
+   float: right;
+}
+.header_area .main_menu .navbar {
+    padding: 0.1rem 10rem;
+}
+.header_area .main_menu .nav-item .nav-link {
+    text-transform: uppercase;
+    font-weight: 500;
+    padding: 1.7rem;
+    color: black;
+}
+.header_area .main_menu .navbar-brand {
+  
+    float: left;
+    margin-left: -150px;
+}
+
+.main_container {
+    width: 98%;
+    height: auto;
+    background-color: red;
+    border-radius: 20px;
+    margin: 5px 6px;
+}
+
+.header_area .main_menu .btn-secondary {
+    color: black;
+    margin: 0 30px;
+    float: right;
+    font-size: 20px;
+    background-color: white;
+    border: 1px solid #000;
+    text-align: justify;
+
+}
+
